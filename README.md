@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Luis Campos Bautista</h1>
-<h3 align="center">A passionate software developer developer from México</h3>
+<h3 align="center">A passionate software developer from México</h3>
 
 - 🔭 I’m currently working on:
   - [Persist API](https://persist-staging-api.herokuapp.com/api)
