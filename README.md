@@ -13,11 +13,53 @@
 
 ---
 
-<h3># Coding</h3>
+<h3></h3>
 
-|Backend|Frontend|
-|-----------	|--------	|
-| <i style="font-size: 30px" class="devicon-nestjs-plain colored"></i><i style="font-size: 30px" class="devicon-java-plain-wordmark"></i>||
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></img>
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></img>
+<img style="background: #FFFFFF;" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></img>
+
+---
+
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></img>
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></img>
+<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></img>
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></img>
+
+---
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></img>
+<img style="background: #FFFFFF;" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></img>
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></img>
+
+---
+
+<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></img>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></img>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></img>
+
+---
+
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></img>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></img>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></img>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
