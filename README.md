@@ -1,12 +1,13 @@
-<h1>🇲🇽 I'm Jose Luis</h1>
-<h3>Software Developer</h3>
----
-
-<p>I like to describe myself as a person who likes learning about different topics and apply this new knowledge to solve problems in different areas. I really like work in backend and frontend development.</p>
+<h1>I'm Jose Luis </h1>
+<h2>Software Developer</h2>
 
 ---
 
-<h3>🖥 Skills and tools</h3>
+<p>I like to describe myself as a person who likes learning about different topics and apply this new knowledge to solve problems in different areas.</p>
+
+---
+
+<h2>Skills and tools</h2>
 
 |Back|Front|Data Base|Version Control|
 |---------|------------|------------|------------|
@@ -14,7 +15,7 @@
 
 ---
 
-<h3>📫 Reach me out!</h3>
+<h2>Reach me out!</h2>
 <a href="https://www.linkedin.com/in/bautistaj20/"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
 
 
