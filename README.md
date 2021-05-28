@@ -16,5 +16,5 @@
 ---
 <h2>Reach me out!</h2>
 
-|<a href="https://www.linkedin.com/in/bautistaj20/"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>|<a href="https://bautistaj20.medium.com/"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /></a>|
+|<a href="https://www.linkedin.com/in/bautistaj20/"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank" /></a>|<a href="https://bautistaj20.medium.com/"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" target="_blank"/></a>|
 |---------|------------|
